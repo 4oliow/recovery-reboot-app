@@ -12,6 +12,14 @@
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:text="reboot to recovery" />
+
+	<Button
+		android:id="@+id/fastbootButton"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="reboot to fastboot" 
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="100dp" />
 	
     <TextView
 		android:id="@+id/statusText"
