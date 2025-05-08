@@ -20,6 +20,9 @@
 		android:padding="0dp"
 		android:clickable="false"/>
 
+	
+	
+	
 	<Button
 		android:id="@+id/recoveryButton"
 		android:layout_width="100dp"
@@ -44,6 +47,9 @@
 		android:layout_marginTop="400dp"/>
 
 
+
+	
+	
 	<TextView
 		android:id="@+id/rootCheckBoxText"
 		android:layout_width="wrap_content"
